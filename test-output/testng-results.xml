@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-28T19:51:36 IST" name="Default suite" finished-at="2023-06-28T19:52:53 IST" duration-ms="76920">
+  <suite started-at="2023-06-29T17:42:37 IST" name="Suite" finished-at="2023-06-29T17:44:02 IST" duration-ms="84271">
     <groups>
     </groups>
-    <test started-at="2023-06-28T19:51:36 IST" name="Default test" finished-at="2023-06-28T19:52:53 IST" duration-ms="76920">
+    <test started-at="2023-06-29T17:42:37 IST" name="Test" finished-at="2023-06-29T17:44:02 IST" duration-ms="84271">
       <class name="ui.DemoFrameworkAutomationSeq">
-        <test-method signature="chromeTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:51:36 IST" name="chromeTest" finished-at="2023-06-28T19:52:13 IST" duration-ms="36782" status="PASS">
+        <test-method signature="chromeTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:42:37 IST" name="chromeTest" finished-at="2023-06-29T17:43:19 IST" duration-ms="41717" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chromeTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:52:13 IST" name="tearDown" finished-at="2023-06-28T19:52:13 IST" duration-ms="169" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:43:19 IST" name="tearDown" finished-at="2023-06-29T17:43:19 IST" duration-ms="170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="firefoxTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:52:13 IST" name="firefoxTest" finished-at="2023-06-28T19:52:35 IST" duration-ms="22034" status="PASS">
+        <test-method signature="firefoxTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:43:19 IST" name="firefoxTest" finished-at="2023-06-29T17:43:42 IST" duration-ms="22509" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firefoxTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:52:35 IST" name="tearDown" finished-at="2023-06-28T19:52:36 IST" duration-ms="640" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:43:42 IST" name="tearDown" finished-at="2023-06-29T17:43:42 IST" duration-ms="689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="safariTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:52:36 IST" name="safariTest" finished-at="2023-06-28T19:52:53 IST" duration-ms="16975" status="PASS">
+        <test-method signature="safariTest()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:43:42 IST" name="safariTest" finished-at="2023-06-29T17:44:01 IST" duration-ms="18865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- safariTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@42e99e4a]" started-at="2023-06-28T19:52:53 IST" name="tearDown" finished-at="2023-06-28T19:52:53 IST" duration-ms="278" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.DemoFrameworkAutomationSeq@32eff876]" started-at="2023-06-29T17:44:01 IST" name="tearDown" finished-at="2023-06-29T17:44:02 IST" duration-ms="279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- ui.DemoFrameworkAutomationSeq -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
